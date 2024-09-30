@@ -62,4 +62,4 @@ seeds:
         rate: NUMBER
 
 snapshots:
-  +target_schema: dbt_jyeo
+  +target_schema: dbt_jyeo_production
